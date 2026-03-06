@@ -99,3 +99,7 @@
 2026-03-06T07:18:47+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem2_var11\resource\d323139f-bf80-4be0-ac1a-f232d6cb2952\byte_352.py
 2026-03-06T07:19:23+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem2_var11\resource\d323139f-bf80-4be0-ac1a-f232d6cb2952\byte_352.py
 2026-03-06T07:19:24+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem2_var11\process\Процесс 1.json
+2026-03-06T12:05:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem2_var11\process\Процесс 1.json
+2026-03-06T12:05:40+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem2_var11\resource\43d3c546-6b29-4174-ba57-1ac319eeff24\byte_352.py
+2026-03-06T12:07:58+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem2_var11\resource\43d3c546-6b29-4174-ba57-1ac319eeff24\byte_352.py
+2026-03-06T12:07:58+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem2_var11\process\Процесс 1.json
